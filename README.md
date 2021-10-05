@@ -18,8 +18,8 @@ How To Play: <br>
 Recent thought:<br>
 Use Up/Down arrow to switch the choice and the final composed music will be different regarding to your choices.
 
-Sources: 
-font: https://fonts.google.com/specimen/Handlee?query=hand#standard-styles
+Sources: <br>
+font: https://fonts.google.com/specimen/Handlee?query=hand#standard-styles <br>
 Learning materials:
 https://www.freetype.org/freetype2/docs/tutorial/step1.html
 https://learnopengl.com/In-Practice/Text-Rendering
